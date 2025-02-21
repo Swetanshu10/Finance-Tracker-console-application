@@ -1,0 +1,33 @@
+date,amount,category,description
+02-01-2025,150.00,Expense,Groceries
+03-01-2025,2500.00,Income,Salary
+04-01-2025,30.50,Expense,Coffee
+06-01-2025,120.75,Expense,Online Shopping
+08-01-2025,500.00,Income,Freelance Work
+09-01-2025,85.20,Expense,Restaurant
+11-01-2025,25.00,Expense,Movie Ticket
+13-01-2025,1000.00,Income,Bonus
+14-01-2025,45.99,Expense,Books
+16-01-2025,200.00,Expense,Utilities
+17-01-2025,1500.00,Income,Investment Return
+18-01-2025,60.00,Expense,Transportation
+20-01-2025,90.30,Expense,Medical
+22-01-2025,750.00,Income,Gift
+23-01-2025,110.00,Expense,Clothing
+25-01-2025,35.50,Expense,Snacks
+27-01-2025,2200.00,Income,Rental Income
+28-01-2025,70.80,Expense,Phone Bill
+30-01-2025,180.00,Expense,Entertainment
+01-02-2025,1200.00,Income,Part-time Job
+02-02-2025,55.00,Expense,Pet Supplies
+04-02-2025,280.00,Expense,Travel
+06-02-2025,1600.00,Income,Consulting
+07-02-2025,95.40,Expense,Home Supplies
+09-02-2025,40.00,Expense,Donation
+11-02-2025,1900.00,Income,Dividends
+12-02-2025,80.60,Expense,Software Subscription
+14-02-2025,130.00,Expense,Valentine's Day Gift
+15-02-2025,210.0,Income,Gift
+16-02-2025,200.0,Expense,Taxi
+17-02-2025,840.0,Income,Lunch with Friends
+21-02-2025,200.0,Expense,Taxi

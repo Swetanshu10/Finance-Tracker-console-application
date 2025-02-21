@@ -19,19 +19,19 @@ The source_code directory contains 3 files , __source_code/main.py__ is the main
     6. matplotlib library
 
   # Step 1
-   1.1 Install python and pip
-   1.2 Create a folder/directory and cd into it
-  # Step 2 (optional)
-   2.1 Make a virtual environment (python -m venv "virtual environment name")
-   2.2 Activate the virtual environment, on Windows ("virtual environment name"\Scripts\activate)
-  # Step 3
-    Install all the libraries using pip
+   Install python and pip
+  # Step 2
+   Create a folder/directory and cd into it
+  # Step 3 (optional)
+    Make a virtual environment (python -m venv "virtual environment name"), then activate the virtual environment, on Windows ("virtual environment name"\Scripts\activate)
   # Step 4
-    Clone/Download this repository into the current directory
+    Install all the libraries using pip
   # Step 5
+    Clone/Download this repository into the current directory
+  # Step 6
     type
     cd source_code
-  # step 6
+  # step 7
     type 
     python main.py
     ("This will run the application in the terminal")

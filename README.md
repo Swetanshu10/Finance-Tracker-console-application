@@ -18,18 +18,22 @@ The source_code directory contains 3 files , __source_code/main.py__ is the main
     5. datetime library
     6. matplotlib library
 
+  # RECOMMENDED IDE- VS CODE
+
   # Step 1
-   Install python and pip
+   Open VS code
   # Step 2
+   Install python and pip
+  # Step 3
    Create a folder/directory and cd into it
-  # Step 3 (optional)
+  # Step 4 (optional)
    Make a virtual environment (python -m venv "virtual environment name"), then activate the virtual environment, to activate on Windows type this-> "virtual environment name"\Scripts\activate
-  # Step 4
-   Install all the libraries using pip
   # Step 5
-   Clone/Download this repository into the current directory
+   Install all the libraries using pip
   # Step 6
-   Type-> cd Finance-Tracker-console-application , then type-> cd source_code
-  # step 7
+   Clone/Download this repository into the current directory
+  # Step 7
+   Type-> cd Finance-Tracker-console-application ,and press Enter, then type-> cd source_code ,and press Enter
+  # step 8
    type-> python main.py
    ("This will run the application in the terminal")

@@ -1,6 +1,6 @@
 # Finance-Tracker-console-application
 
-# PROJECT DESCRPTION
+# PROJECT DESCRIPTION
 This is a simple finance (transaction tracking) application developed in Python where users can add transactions and view transactions along with total income and expense and also the net savings in a given timeframe
 
 # TECH STACK

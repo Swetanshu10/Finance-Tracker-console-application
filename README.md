@@ -23,15 +23,15 @@ The source_code directory contains 3 files , __source_code/main.py__ is the main
   # Step 2
    Create a folder/directory and cd into it
   # Step 3 (optional)
-    Make a virtual environment (python -m venv "virtual environment name"), then activate the virtual environment, on Windows ("virtual environment name"\Scripts\activate)
+   Make a virtual environment (python -m venv "virtual environment name"), then activate the virtual environment, on Windows ("virtual environment name"\Scripts\activate)
   # Step 4
-    Install all the libraries using pip
+   Install all the libraries using pip
   # Step 5
-    Clone/Download this repository into the current directory
+   Clone/Download this repository into the current directory
   # Step 6
-    type
+   type
     cd source_code
   # step 7
-    type 
+   type 
     python main.py
-    ("This will run the application in the terminal")
+   ("This will run the application in the terminal")
